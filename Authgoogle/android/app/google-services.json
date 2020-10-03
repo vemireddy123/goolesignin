@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "588350456033",
+    "firebase_url": "https://signinauth-17f64.firebaseio.com",
+    "project_id": "signinauth-17f64",
+    "storage_bucket": "signinauth-17f64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588350456033:android:2cdefcc96471da4ae8b7a0",
+        "android_client_info": {
+          "package_name": "com.example.Authgoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588350456033-g8k63b8pbtsduq2spr9mgph4ur9bucgv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Authgoogle",
+            "certificate_hash": "068dd798afab474ae2f9c85950d5cf9eec9549ad"
+          }
+        },
+        {
+          "client_id": "588350456033-vtujha26h8c0j525q3p1np8bhffldncc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCidfsycT8GUMDIeEKtB79icto9wdie6WE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588350456033-vtujha26h8c0j525q3p1np8bhffldncc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
